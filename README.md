@@ -1,62 +1,80 @@
-# Pich Chanthorn
+<div align="center">
 
-IT Student | Web Developer | AI Learner  
-Founder & CEO, tech community/startup
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1E293B&height=200&section=header&text=Pich%20Chanthorn&fontSize=48&fontColor=38BDF8&animation=fadeIn&desc=IT%20Student%20%7C%20Aspiring%20Full-Stack%20Developer&descAlignY=62&descSize=18&fontAlignY=35"/>
 
-## Professional Summary
-I am an IT student focused on building practical, production-oriented software. My work centers on modern web development, applied AI learning, and systems thinking. I approach projects with a problem-solving mindset: define constraints clearly, design scalable solutions, and iterate continuously through implementation and feedback.
+<a href="https://pichchanthorn.me"><img src="https://img.shields.io/badge/portfolio-pichchanthorn.me-0F172A?style=for-the-badge&logo=vercel&logoColor=38BDF8"/></a>
+<a href="https://linkedin.com/in/pichchanthorn"><img src="https://img.shields.io/badge/linkedin-connect-0F172A?style=for-the-badge&logo=linkedin&logoColor=38BDF8"/></a>
+<a href="https://tiktok.com/@chanthorn_pich"><img src="https://img.shields.io/badge/tiktok-@chanthorn__pich-0F172A?style=for-the-badge&logo=tiktok&logoColor=38BDF8"/></a>
 
-## Core Strengths
+<br/>
+
+![Profile views](https://komarev.com/ghpvc/?username=pichchanthorn&color=38BDF8&style=flat-square&label=profile+views)
+
+</div>
+
+<br/>
+
+```js
+const chanthorn = {
+  role: "IT Student & Aspiring Full-Stack Developer",
+  based_in: "Phnom Penh, Cambodia",
+  studying_at: "Build Bright University (2024 – 2028)",
+  working_at: "Data Entry Specialist @ Haystack Labs",
+  founder_of: "PCTN — tech community/startup, est. 2020",
+  focus: ["clean architecture", "scalable systems", "continuous learning"],
+  looking_for: "internship / junior web developer roles",
+};
+```
+
+### ⚡ core strengths
+
 - Problem-solving through hands-on project execution
 - System thinking for architecture, data flow, and maintainability
-- Continuous learning with a build-measure-improve workflow
+- Continuous learning with a build → measure → improve workflow
 - Leadership in community/startup environments
 
-## Technology Stack
+### 🧩 tech stack
 
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Semantic UI React](https://img.shields.io/badge/Semantic_UI_React-35BDB2?style=flat&logo=semanticuireact&logoColor=white)
+<div align="center">
 
-### Backend
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,php,mysql,oracle,python,git,vscode,figma,linux&theme=dark)
 
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+</div>
 
-### AI / ML
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+<div align="center">
+<sub>currently exploring → Data Science & Analytics · Network Administration · Client-Server Application Development</sub>
+</div>
 
-### Tools
-![Git](https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=flat&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-181717?style=flat&logo=gitlab&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe_XD-470137?style=flat&logo=adobexd&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
+### 🚀 featured projects
 
-## Current Focus
-- Building end-to-end web applications with clean architecture
-- Strengthening backend and database design fundamentals
-- Advancing practical AI integration in real-world projects
-- Improving delivery quality through version control and deployment discipline
+<table>
+<tr><td width="34%"><b>Stockroom — Inventory Console</b></td><td>Production-quality e-commerce product management dashboard with LocalStorage persistence</td></tr>
+<tr><td><b>Johnson International School Website</b></td><td>6-page site for an international school in Svay Rieng Province, Cambodia</td></tr>
+<tr><td><b>Python Selenium Automation Framework</b></td><td>OOP framework with Page Object Model, logging, and unit tests</td></tr>
+<tr><td><b>Personal Portfolio</b></td><td>pichchanthorn.me — hosted on GitHub Pages + Cloudflare</td></tr>
+</table>
 
-## GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=pichchanthorn&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=pichchanthorn&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pichchanthorn&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<sub>swap each project name for a link to its repo, e.g. <code>[Stockroom — Inventory Console](your-repo-url)</code></sub>
 
-## Contributions
-![](https://github-contributor-stats.vercel.app/api?username=pichchanthorn&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### 📜 certifications
 
-## Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pichchanthorn/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:pich_chanthorn@pp.bbu.edu.kh)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://web.facebook.com/chanthornpich.kh1/)
+<a href="#"><img src="https://img.shields.io/badge/Google_Cybersecurity_Professional_Certificate-0F172A?style=for-the-badge&logo=google&logoColor=38BDF8"/></a>
 
----
-[![](https://visitcount.itsvg.in/api?id=pichchanthorn&icon=0&color=0)](https://visitcount.itsvg.in)
+<sub>Foundations of Cybersecurity · Play It Safe · Junior Cybersecurity Analyst Career Path</sub>
+
+### 📊 github stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=pichchanthorn&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=pichchanthorn&theme=tokyonight&hide_border=true"/>
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=pichchanthorn&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E293B,100:0F172A&height=100&section=footer"/>
+
+<div align="center"><i>open to internship & junior web developer opportunities 🚀</i></div>
