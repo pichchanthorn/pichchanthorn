@@ -1,0 +1,99 @@
+<svg viewBox="0 0 1660 760" xmlns="http://www.w3.org/2000/svg" font-family="Consolas, 'Courier New', monospace">
+  <rect x="0" y="0" width="1660" height="760" rx="14" fill="#F4ECDF"/>
+  <rect x="0" y="0" width="1660" height="760" rx="14" fill="none" stroke="#D8C9AC" stroke-width="2"/>
+
+  <!-- title bar -->
+  <circle cx="34" cy="30" r="7" fill="#E8877D"/>
+  <circle cx="58" cy="30" r="7" fill="#E8C97D"/>
+  <circle cx="82" cy="30" r="7" fill="#8FBF8A"/>
+  <text x="830.0" y="36" text-anchor="middle" font-size="15" fill="#7A6F5C">chanthorn@build ~ % ./profile</text>
+  <text x="1620" y="36" text-anchor="end" font-size="13" fill="#C0684F">● BUILDING</text>
+
+  <line x1="0" y1="58" x2="1660" y2="58" stroke="#D8C9AC" stroke-width="1.5"/>
+
+<text x="40" y="100" font-size="13" letter-spacing="2" fill="#B5A585">PORTRAIT / CHANTHORN</text>
+<g font-size="8" fill="#C0684F">
+<text x="40" y="173.0" xml:space="preserve">                                  ...                                         </text>
+<text x="40" y="181.6" xml:space="preserve">                               .=*####+=--:.                                  </text>
+<text x="40" y="190.2" xml:space="preserve">                            .=*#%%###%%%%%%%*=:                               </text>
+<text x="40" y="198.8" xml:space="preserve">                          :*#%%%######%%%###%%%#+:                            </text>
+<text x="40" y="207.39999999999998" xml:space="preserve">                         +%%#####%%#%%%%%%%%%%%%%#-.                          </text>
+<text x="40" y="216.0" xml:space="preserve">                        *%####%%%%%%%%%%%%%%%#%%%%#=.                         </text>
+<text x="40" y="224.6" xml:space="preserve">                       -%##%%%%%%%%%%%%%%%%%%%%%%%%#-                         </text>
+<text x="40" y="233.2" xml:space="preserve">                      .#%%%%%%%%##%%%%%%%%%%%%%%%%%%#:                        </text>
+<text x="40" y="241.8" xml:space="preserve">                      =%%%%%%%%#%%%%%%%%%%%%%%%%%%%%%%=                       </text>
+<text x="40" y="250.39999999999998" xml:space="preserve">                      #%%%%%%%%%%%%%%%%%%%%%%%%%%%@%%%%+                      </text>
+<text x="40" y="259.0" xml:space="preserve">                     *%%%%%%%%%#%%%%%%%%%%%%%%%%%%%%%%%%+                     </text>
+<text x="40" y="267.6" xml:space="preserve">                    :%%%%%%%%%##%%%%%#%#%%%%%%%%%%%%%%%%*                     </text>
+<text x="40" y="276.2" xml:space="preserve">                    -%%%%%%%#%%#%%%%##%%%%#%%%%%%%%%%%%%-                     </text>
+<text x="40" y="284.79999999999995" xml:space="preserve">                    .%%%#%%%%%#%#%%%%####%%%%%%##@%#%%%%:                     </text>
+<text x="40" y="293.4" xml:space="preserve">                    :%%%#%%%%%#####%#*+==+**#**##*==#%%%.                     </text>
+<text x="40" y="302.0" xml:space="preserve">                    .#%#+++*#%###**+=::::::::::::::-*%%%:                     </text>
+<text x="40" y="310.6" xml:space="preserve">                     *%*=--------:::...::::::::::---+#%%:                     </text>
+<text x="40" y="319.2" xml:space="preserve">                     =#+---::::....::::::::::::::----*%%.                     </text>
+<text x="40" y="327.79999999999995" xml:space="preserve">                     .#+---:--:..............::-:----=#*                      </text>
+<text x="40" y="336.4" xml:space="preserve">                      *=----===-::.........:-====----=#-                      </text>
+<text x="40" y="345.0" xml:space="preserve">                      -+--====+**+-:::::::=+++=-==---=*.                      </text>
+<text x="40" y="353.6" xml:space="preserve">                      .=-----:.:-==-:::::-=-::::-----==                       </text>
+<text x="40" y="362.2" xml:space="preserve">                    .::=---::----:--:::::-::---:::---==.:                     </text>
+<text x="40" y="370.79999999999995" xml:space="preserve">                    +--=----++%#---::::::---*%*+=:---==-==                    </text>
+<text x="40" y="379.4" xml:space="preserve">                   :=::--:---:--:-::::.:::---=--=-:--=-::*.                   </text>
+<text x="40" y="388.0" xml:space="preserve">                   :=::--:::::..:::::::::::::::.::::-=--:+:                   </text>
+<text x="40" y="396.59999999999997" xml:space="preserve">                   .=:-=--::....:.::::::::..:....:::-=++-+.                   </text>
+<text x="40" y="405.2" xml:space="preserve">                    ------::......::::::::.......:::--=*==                    </text>
+<text x="40" y="413.8" xml:space="preserve">                    .-----::......:--:::::.......::--==+--                    </text>
+<text x="40" y="422.4" xml:space="preserve">                     :-:--:::....:---::::-:......::--=--=.                    </text>
+<text x="40" y="431.0" xml:space="preserve">                      -:---::....:-:::..::-:....::--=---.                     </text>
+<text x="40" y="439.59999999999997" xml:space="preserve">                      .:-=-:::..:--:--::-:--:...::--=-:.                      </text>
+<text x="40" y="448.2" xml:space="preserve">                         --:::::::-==-====--::.:::-=:                         </text>
+<text x="40" y="456.8" xml:space="preserve">                         :=-:::::::::::::::::::::--=                          </text>
+<text x="40" y="465.4" xml:space="preserve">                          --::::::--------:::::::--:                          </text>
+<text x="40" y="474.0" xml:space="preserve">                          :--::-============--::---.                          </text>
+<text x="40" y="482.59999999999997" xml:space="preserve">                           --:--=++*++++++++=-::--:                           </text>
+<text x="40" y="491.2" xml:space="preserve">                           :=--::==-------=-:::---.                           </text>
+<text x="40" y="499.8" xml:space="preserve">                           .=--::-=--------:::----                            </text>
+<text x="40" y="508.4" xml:space="preserve">                           .==--::---==---:::-----                            </text>
+<text x="40" y="517.0" xml:space="preserve">                           .=-=--:::::::::::--=---                            </text>
+<text x="40" y="525.5999999999999" xml:space="preserve">                           .=--=-::::::::::--=---=:                           </text>
+<text x="40" y="534.2" xml:space="preserve">                          .=----=-::::::::--=----:+.                          </text>
+<text x="40" y="542.8" xml:space="preserve">                          *---------:::---==----=.-#                          </text>
+<text x="40" y="551.4" xml:space="preserve">                         +%..--------====-------: :@*                         </text>
+<text x="40" y="560.0" xml:space="preserve">                        +@#. .-------==---------  :%%+                        </text>
+<text x="40" y="568.5999999999999" xml:space="preserve">                     .-*%%#.  .----------------   -%%%+.                      </text>
+<text x="40" y="577.2" xml:space="preserve">                   :+%%%%%%:    :---------::-:    =%%%%%*-                    </text>
+<text x="40" y="585.8" xml:space="preserve">                -*#%%%%%%#%-     .--:::::::-.     *%%%%%%%#+:                 </text>
+<text x="40" y="594.4" xml:space="preserve">             -+#%%%%%%%%%#%+       :--::::-.     .#%%%%%%#%%%*-.              </text>
+<text x="40" y="603.0" xml:space="preserve">         .-+#%%%%%%%%%%%%#%*        .-----.      -%%%%%%%%%#%%%%+:            </text>
+<text x="40" y="611.5999999999999" xml:space="preserve">      .-*#%%%%%%%%%%%%%%%###.        .:--.       +%%%%%%%%%%%%#%%%#=:         </text>
+<text x="40" y="620.2" xml:space="preserve">   :=*%%%%%%%%%%%%%%%%%%%##%-          -:        *%%%%%%%%%%%%%%%#%%%*=:      </text>
+<text x="40" y="628.8" xml:space="preserve">.=#%%%%%%%%%%%%%%%%%%%%%###%+        .+*#-      .##%%%%%%%%%%%%%%%%##%%%*=:   </text>
+<text x="40" y="637.4" xml:space="preserve">%%%%%%%%%%%%%%%%%%%%%%###%%%*        *%###+     :%#%%%%%%%%%%%%%%%%%%###%%%*-.</text>
+<text x="40" y="646.0" xml:space="preserve">%%%%%%%%%%%%%%%%%%%%%%%%%%%%#.      *%####@+    =%#%%%%%#%%%%%%%%%%%%%%%%##%%#</text>
+<text x="40" y="654.6" xml:space="preserve">%%%%%%%%%%%%%%%%%%%%%%%%%%%#%=     =@%###%%@=   *%#%%%%%%%%%%%%%%%%%%%%%%%%##%</text>
+<text x="40" y="663.1999999999999" xml:space="preserve">%%%%%%%%%%%%%%%%%%%%%%%%%%%%%*    .#%%%#%%*+-  .#%%%%%%%%%%%%%%%%%%%%%%%%%%%%%</text>
+<text x="40" y="671.8" xml:space="preserve">%%%%%%%%%%%%%%%%%%%%%#%%%%%%%*.   :*-=%#%#: .. :%#%%%%%%%%%%%%%%%%%%%%%%%%%%%%</text>
+<text x="40" y="680.4" xml:space="preserve">%%%%%%%%%%%#%%%%%%%%#%%%%%%%%#.  .::..##%-   ..-%#%%%%%%%%%%%%%%%%%%%%%%%%%%%%</text>
+<text x="40" y="689.0" xml:space="preserve">%%%%%%%%%%%%%%%%%%%%%%#%%%%%%%- .:....*%#.    .+%#%%%#%%#%%%%%%%%%%%%%%%%%%%%%</text>
+<text x="40" y="697.6" xml:space="preserve">%%%%%%%%%%%%%%%%%%%%%##%%%%%%%= .. ...##%+    :#%#%%%%%%%%%%%%%%%%%%%%%%%%%%%%</text>
+<text x="40" y="706.1999999999999" xml:space="preserve">%%%%%%%%%%%%%%%%%%%%%##%%%%%%%+    ..-##%%.   -#%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%</text>
+</g>
+<line x1="458.79999999999995" y1="90" x2="458.79999999999995" y2="720" stroke="#D8C9AC" stroke-width="1.5"/>
+<text x="498.79999999999995" y="100" font-size="13" letter-spacing="2" fill="#B5A585">PROFILE / DEVELOPER</text>
+<text x="498.79999999999995" y="130" font-size="14" fill="#5B5240">chanthorn@build --------------------------------------------</text>
+<text x="498.79999999999995" y="156" font-size="14" fill="#5B5240"> Name: ......... Pich Chanthorn</text>
+<text x="498.79999999999995" y="182" font-size="14" fill="#5B5240"> Role: ......... Full-Stack Developer (in progress)</text>
+<text x="498.79999999999995" y="208" font-size="14" fill="#5B5240"> Based: ........ Phnom Penh, Cambodia</text>
+<text x="498.79999999999995" y="234" font-size="14" fill="#5B5240"> Mode: ......... Learning / Building / Shipping</text>
+<text x="498.79999999999995" y="272" font-size="14" fill="#C0684F">- BUILD.FOCUS -------------------------------------------</text>
+<text x="498.79999999999995" y="298" font-size="14" fill="#5B5240"> Frontend: ..... Clean, scalable UI</text>
+<text x="498.79999999999995" y="324" font-size="14" fill="#5B5240"> Backend: ...... PHP, MySQL, Oracle</text>
+<text x="498.79999999999995" y="350" font-size="14" fill="#5B5240"> Data: ......... Analytics &amp; Network Admin</text>
+<text x="498.79999999999995" y="376" font-size="14" fill="#5B5240"> Growth: ....... Continuous learning</text>
+<text x="498.79999999999995" y="414" font-size="14" fill="#C0684F">- SELECTED.WORK ------------------------------------------</text>
+<text x="498.79999999999995" y="440" font-size="14" fill="#5B5240"> Stockroom: .... Inventory management dashboard</text>
+<text x="498.79999999999995" y="466" font-size="14" fill="#5B5240"> JIS Website: .. 6-page international school site</text>
+<text x="498.79999999999995" y="492" font-size="14" fill="#5B5240"> Selenium: ..... Test automation framework</text>
+<text x="498.79999999999995" y="518" font-size="14" fill="#5B5240"> Portfolio: .... pichchanthorn.me</text>
+<text x="498.79999999999995" y="574" font-size="15" fill="#C0684F" font-weight="600">FROM STUDENT TO DEVELOPER</text>
+<text x="830.0" y="740" text-anchor="middle" font-size="12" letter-spacing="3" fill="#B5A585">FULL-STACK DEVELOPMENT / WEB SYSTEMS / IT STUDENT</text>
+</svg>

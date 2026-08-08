@@ -16,6 +16,10 @@
 
 </div>
 
+<p align="center">
+  <img src="./assets/hero/portrait_card.svg" alt="Pich Chanthorn, full-stack developer in progress" width="100%">
+</p>
+
 <br/>
 
 ### 🧭 About Me
@@ -122,6 +126,14 @@ Founder experience running a community/startup since 2020
 <br/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=pichchanthorn&theme=tokyo-night&hide_border=true&area=true"/>
 </div>
+
+<br/>
+
+### 🐍 Contribution Trail
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pichchanthorn/pichchanthorn/output/github-contribution-grid-snake.svg" alt="Chanthorn's GitHub contribution snake" width="100%">
+</p>
 
 <br/>
 
