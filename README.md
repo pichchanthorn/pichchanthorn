@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1E293B&height=220&section=header&text=Pich%20Chanthorn&fontSize=50&fontColor=38BDF8&animation=fadeIn&desc=Full-Stack%20Developer%20in%20progress&descAlignY=62&descSize=18&fontAlignY=32"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+clean%2C+scalable+web+systems;IT+Student+%40+Build+Bright+University;Data+Entry+Specialist+%40+Haystack+Labs;Founder+%40+PCTN;Open+to+Internship+%26+Junior+Dev+Roles" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+clean%2C+scalable+web+systems;IT+Student+%40+Build+Bright+University;Data+Entry+Specialist+%40+Haystack+Solutions;Founder+%40+PCTN;Open+to+Internship+%26+Junior+Dev+Roles" alt="Typing SVG"/>
 
 <br/>
 
