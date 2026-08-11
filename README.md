@@ -29,7 +29,7 @@ const chanthorn = {
   role: "IT Student & Aspiring Full-Stack Developer",
   based_in: "Phnom Penh, Cambodia",
   studying_at: "Build Bright University (2024 – 2028)",
-  working_at: "Data Entry Specialist @ Haystack Labs",
+  working_at: "Data Entry Specialist @ Haystack Solutions",
   founder_of: "PCTN — tech community/startup, est. 2020",
   principles: ["clean architecture", "scalable systems", "continuous learning"],
   status: "open_to_work",
