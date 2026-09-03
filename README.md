@@ -1,8 +1,10 @@
 <div align="center">
 
+<img src="./assets/hero/terminal-profile.jpg" alt="Pich Chanthorn" width="140"/>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1E293B&height=220&section=header&text=Pich%20Chanthorn&fontSize=50&fontColor=38BDF8&animation=fadeIn&desc=Full-Stack%20Developer%20in%20progress&descAlignY=62&descSize=18&fontAlignY=32"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+clean%2C+scalable+web+systems;IT+Student+%40+Build+Bright+University;Data+Entry+Specialist+%40+Haystack+Solutions;Founder+%40+PCTN;Open+to+Internship+%26+Junior+Dev+Roles" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+clean%2C+scalable+web+systems;IT+Student+%40+Build+Bright+University;Data+Entry+Specialist+%40+Haystack+Solutions;Founder+%26+CEO+%40+PCTN;Open+to+Internship+%26+Junior+Dev+Roles" alt="Typing SVG"/>
 
 <br/>
 
@@ -30,16 +32,16 @@ const chanthorn = {
   based_in: "Phnom Penh, Cambodia",
   studying_at: "Build Bright University (2024 – 2028)",
   working_at: "Data Entry Specialist @ Haystack Solutions",
-  founder_of: "PCTN — tech community/startup, est. 2020",
+  founder_of: "PCTN — tech community/startup, Founder & CEO since 2020",
   principles: ["clean architecture", "scalable systems", "continuous learning"],
   status: "open_to_work",
 };
 ```
 
-- 🔭 **Currently working on:** production-grade front-end projects and strengthening back-end fundamentals (PHP, MySQL, Oracle)
+- 🔭 **Currently working on:** real front-end projects and strengthening back-end fundamentals (PHP, MySQL, Oracle)
 - 🌱 **Currently learning:** Data Science & Analytics, Network Administration, Client-Server Application Development, Linux
 - 🎯 **Looking for:** internship / junior full-stack developer opportunities
-- 🧩 **Approach:** ship real, production-quality builds — not just tutorials — with clean separation of concerns and maintainable architecture
+- 🧩 **Approach:** ship real, working projects — not just tutorials — with clean separation of concerns and maintainable architecture
 
 <br/>
 
@@ -91,29 +93,39 @@ Founder experience running a community/startup since 2020
 <table>
 <tr>
 <td width="30%"><b>🗄️ Stockroom — Inventory Console</b></td>
-<td>Production-quality e-commerce product management dashboard. HTML5, CSS3, Bootstrap 5, vanilla JS with LocalStorage persistence — built as a modular multi-file project with strict separation of concerns.</td>
+<td>
+E-commerce product management dashboard built as a modular multi-file project with strict separation of concerns; product data persists via <code>LocalStorage</code>.<br/>
+<b>Tech:</b> HTML5, CSS3, Bootstrap 5, vanilla JS
+</td>
 </tr>
 <tr>
 <td><b>🏫 Johnson International School Website</b></td>
-<td>6-page site (home, about, programs, schedule, tuition, contact) for an international school in Svay Rieng Province, Cambodia. Built with HTML5, CSS3, and vanilla JS on a navy/royal blue/gold brand palette.</td>
+<td>
+6-page site (home, about, programs, schedule, tuition, contact) for an international school in Svay Rieng Province, Cambodia, on a navy/royal blue/gold brand palette.<br/>
+<b>Tech:</b> HTML5, CSS3, vanilla JS
+</td>
 </tr>
 <tr>
 <td><b>🤖 Python Selenium Automation Framework</b></td>
-<td>OOP test automation framework built from scratch — Page Object Model, Selenium Manager, PEP 8 compliant, with logging and unit tests.</td>
+<td>
+OOP test automation framework built from scratch, using the Page Object Model and Selenium Manager, with logging and unit tests.<br/>
+<b>Tech:</b> Python, Selenium, PEP 8
+</td>
 </tr>
 <tr>
 <td><b>🌐 Personal Portfolio</b></td>
-<td>pichchanthorn.me — hosted on GitHub Pages + Cloudflare, with backend features (Workers + D1) in progress.</td>
+<td>
+<a href="https://pichchanthorn.me">pichchanthorn.me</a> — hosted on GitHub Pages + Cloudflare, with backend features (Workers + D1) in progress.<br/>
+<b>Tech:</b> HTML5, CSS3, Cloudflare Workers, D1
+</td>
 </tr>
 </table>
-
-<sub>swap each project name for a link to its repo, e.g. <code>[Stockroom — Inventory Console](your-repo-url)</code></sub>
 
 <br/>
 
 ### 📜 Certifications
 
-<a href="#"><img src="https://img.shields.io/badge/Google_Cybersecurity_Professional_Certificate-0F172A?style=for-the-badge&logo=google&logoColor=38BDF8"/></a>
+<img src="https://img.shields.io/badge/Google_Cybersecurity_Professional_Certificate-0F172A?style=for-the-badge&logo=google&logoColor=38BDF8" alt="Google Cybersecurity Professional Certificate"/>
 
 <sub>Foundations of Cybersecurity · Play It Safe · Junior Cybersecurity Analyst Career Path</sub>
 
