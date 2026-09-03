@@ -135,8 +135,6 @@ OOP test automation framework built from scratch, using the Page Object Model an
 
 <div align="center">
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=pichchanthorn&theme=tokyonight&hide_border=true"/>
-<br/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pichchanthorn&theme=tokyo-night&hide_border=true&area=true"/>
 </div>
 
 <br/>
